@@ -1,0 +1,52 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "1 - Implemente a autenticação com simple JWT",
+      "enabled": true,
+      "identifier": "test_validate_authentication",
+      "order": 1,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "2 - Crie um C.R.U.D para `Profile`",
+      "enabled": true,
+      "identifier": "test_validate_profiles_crud",
+      "order": 2,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "3 - Crie um C.R.U.D para `Project`",
+      "enabled": true,
+      "identifier": "test_validate_projects_crud",
+      "order": 3,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "4 - Customize as ViewSets para `Profile`",
+      "enabled": true,
+      "identifier": "test_validate_profiles_template",
+      "order": 4,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "5 - Crie um C.R.U.D inline para `Certificate` e `CertifyingInstitution`",
+      "enabled": true,
+      "identifier": "test_validate_certificate_and_certifying_institutions_crud",
+      "order": 5,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "6 - Exibir uma página de perfil completa",
+      "enabled": true,
+      "identifier": "test_validate_complete_profiles_template",
+      "order": 6,
+      "skill_ids": []
+    }
+  ]
+}

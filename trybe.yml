@@ -1,0 +1,4 @@
+ignore_files:
+  - setup.cfg
+  - manage.py
+  - tests/
